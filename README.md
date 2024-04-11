@@ -1,5 +1,7 @@
 # -Healthcare-Data-Analysis-Dashboard-Power-BI
 # Healthcare Analytics Dashboard
+![Healthcare dashboard ss](https://github.com/CodeNinjaSatyam/-Healthcare-Data-Analysis-Power-BI-Dashboard/assets/148047911/dc07694e-eb62-4b7b-8e03-784f61c2825b)
+
 
 Welcome to the Healthcare Analytics Dashboard!
 
